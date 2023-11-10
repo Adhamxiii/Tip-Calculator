@@ -31,7 +31,7 @@ The Tip Calculator provides a straightforward interface for users to input the b
 
 ## Live Demo
 
-Check out the live demo of the Tip Calculator [here](#).
+Check out the live demo of the Tip Calculator [here](https://tip-calculator-snowy.vercel.app/).
 
 ## Contributing
 
